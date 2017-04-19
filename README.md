@@ -1,2 +1,3 @@
 # ml-py
-ml with python2.7
+python2.7
+tensorflow r1.0
